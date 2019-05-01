@@ -427,9 +427,9 @@ ul.address li ul.address-text li a:hover {
 .social-btns .btn {
 	display: inline-block;
 	background-color: #fff;
-	width: 90px;
-	height: 90px;
-	line-height: 90px;
+	width: 70px;
+	height: 70px;
+	line-height: 60px;
 	margin: 0 10px;
 	text-align: center;
 	position: relative;
