@@ -420,6 +420,8 @@ ul.address li ul.address-text li a:hover {
 
 .social-btns {
 	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
 }
 
 .social-btns .btn {
@@ -433,7 +435,7 @@ ul.address li ul.address-text li a:hover {
 	position: relative;
 	overflow: hidden;
 	border-radius: 28%;
-	box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.4);
 	opacity: 0.99;
 }
 
